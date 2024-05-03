@@ -15,7 +15,7 @@
   ## Team-List
 
   ```
-  https://raw.githubusercontent.com/Cheesy-Arena-Data/Shop-Data/main/CSV/Team-List.csv
+  https://raw.githubusercontent.com/Cheesy-Arena-Data/2024-FIN-State/main/CSV/Teams.csv
   ```
 
   </details>
@@ -28,7 +28,7 @@
   ## FTA Report
 
   ```
-  https://raw.githubusercontent.com/Cheesy-Arena-Data/Shop-Data/main/CSV/FTA-Report.csv
+  https://raw.githubusercontent.com/Cheesy-Arena-Data/2024-FIN-State/main/CSV/FTA-Report.csv
   ```
 
   </details>
@@ -41,7 +41,7 @@
   ## Practice Match Schedule
 
   ```
-  https://raw.githubusercontent.com/Cheesy-Arena-Data/Shop-Data/main/CSV/Practice-Schedule.csv
+ https://raw.githubusercontent.com/Cheesy-Arena-Data/2024-FIN-State/main/CSV/Practice-Match-Schedule.csv
   ```
 
   </details>
@@ -54,7 +54,7 @@
   ## Qualification Match Schedule
 
   ```
-  https://raw.githubusercontent.com/Cheesy-Arena-Data/Shop-Data/main/CSV/Qualification-Schedule.csv
+  https://raw.githubusercontent.com/Cheesy-Arena-Data/2024-FIN-State/main/CSV/Qualification-Match-Schedule.csv
   ```
 
   </details>
